@@ -1,0 +1,12 @@
+# Datos del curso: se obtienen desde Canvas (ver datos/README.md)
+datos/*
+!datos/README.md
+Enunciado.pdf
+
+# Entorno y archivos temporales
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+*.duckdb.wal
+~$*
